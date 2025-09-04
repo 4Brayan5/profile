@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Brayan Dunou** (Baawiil)
+# 👋 Salut, je suis **Baawiil**
 
 **Développeur [Web/Frontend/Fullstack/Autre]** | **Passionné par [tes centres d'intérêt : design, open-source, IA, etc.]**
 
