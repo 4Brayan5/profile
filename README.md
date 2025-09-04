@@ -12,14 +12,13 @@
 
 | Catégorie       | Technologies                                                                 |
 |-----------------|------------------------------------------------------------------------------|
-| **Langages**    | JavaScript, TypeScript, Python, HTML/CSS                                    |
-| **Frameworks**  | React, Next.js, Vue.js, Node.js, Express                                    |
-| **Outils**      | Git, Docker, Figma, VS Code, Webpack                                        |
+| **Jeux Vidéos** | FragPunk, Minecraft, R.E.P.O., Garry's Mod                                  |
+| **Passions**    | Musique, Cuisine, Marché,                                                   |
+| **Outils**      | WindSurf, VS Code                                                           |
 | **Design**      | UI/UX, TailwindCSS, Sass, Responsive Design                                 |
-| **Base de données** | PostgreSQL, MongoDB, Firebase                                           |
 
 ---
 
 ## 📫 **Comment me contacter ?**
 - **Email** : [baawiilpro@gmail.com](mailto\:baawiilpro@gmail.com)
-- **Discord** : `ton-pseudo#1234`
+- **Discord** : `baawiil`
