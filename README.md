@@ -2,10 +2,8 @@
 
 [![Software](https://skillicons.dev/icons?i=js,html,css,pr,au,ae,discord,discordjs,lua,)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ton-site-web.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-compte)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](baawiil.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baawiilpro@gmail.com)
 
 ---
 
@@ -25,9 +23,3 @@
 ## 📫 **Comment me contacter ?**
 - **Email** : [baawiilpro@gmail.com](mailto\:baawiilpro@gmail.com)
 - **Discord** : `ton-pseudo#1234`
-- **Autre** : [Lien vers un formulaire, Calendly, etc.]
-
----
-*✨ Fun Fact : [Un fait marquant ou une passion, ex: "Je joue du piano ou je collectionne les vinyles"]*
-
----
