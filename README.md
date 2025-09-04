@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Baawiil**
+https://readme-typing-svg.demolab.com/demo/?weight=500&size=35&lines=Hey%2C+je+suis+Baawiil+%F0%9F%91%8B
 
 [![Software](https://skillicons.dev/icons?i=js,html,css,pr,au,ae,discord,discordjs,lua,)](https://skillicons.dev)
 
