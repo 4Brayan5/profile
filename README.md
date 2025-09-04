@@ -7,18 +7,6 @@
 
 ---
 
-## 🔧 **Mes Compétences**
-<custom-element data-json="%7B%22type%22%3A%22table-metadata%22%2C%22attributes%22%3A%7B%22title%22%3A%22Technologies%22%7D%7D" />
-
-| Catégorie       | Technologies                                                                 |
-|-----------------|------------------------------------------------------------------------------|
-| **Jeux Vidéos** | FragPunk, Minecraft, R.E.P.O., Garry's Mod                                  |
-| **Passions**    | Musique, Cuisine, Marché,                                                   |
-| **Outils**      | WindSurf, VS Code                                                           |
-| **Design**      | UI/UX, TailwindCSS, Sass, Responsive Design                                 |
-
----
-
 ## 📫 **Comment me contacter ?**
 - **Email** : [baawiilpro@gmail.com](mailto\:baawiilpro@gmail.com)
 - **Discord** : `baawiil`
