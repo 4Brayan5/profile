@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **Baawiil**
 
-[![Développeur](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![Software](https://skillicons.dev/icons?i=js,html,css,pr,au,ae,discord,discordjs,lua,)](https://skillicons.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ton-site-web.com)
