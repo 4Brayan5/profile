@@ -9,4 +9,4 @@
 
 ## 📫 **Comment me contacter ?**
 - **Email** : [baawiilpro@gmail.com](mailto\:baawiilpro@gmail.com)
-- **Discord** : `baawiil`
+- **Discord** : `baawiilpro`
